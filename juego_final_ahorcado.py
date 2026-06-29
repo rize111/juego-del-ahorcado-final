@@ -24,7 +24,7 @@ while True:
         elif intentos==4:
             print(" 0")
             print("/|\\")
-        elif intentos==4:
+        elif intentos==5:
             print(" 0")
             print("/|\\")
             print("/")
